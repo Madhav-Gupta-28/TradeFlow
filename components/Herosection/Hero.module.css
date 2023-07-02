@@ -1,0 +1,5 @@
+.swapButton :hover{
+    background-color: #0BC5EA;
+    color: #333;
+    border: 2px solid #333;
+}

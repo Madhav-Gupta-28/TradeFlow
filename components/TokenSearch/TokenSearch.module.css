@@ -1,0 +1,41 @@
+.tokendisplay{
+    margin-top: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 0.5rem;
+}
+
+.tokendisplay > span{
+    display: flex ;
+    align-items: center;
+    gap: 0.2rem;
+    
+   border: 2px solid #333;
+   justify-content: space-around;
+   border-radius: 0.5rem;
+   color: #fff;
+   font-weight: 600;
+   font-size: 1.1rem ;
+   cursor: pointer;
+   padding: 1rem;
+}
+
+.active{
+    background-color: #393E46;
+    color: #fff;
+}
+
+.token{
+    position: absolute;
+    color: #333;
+    margin: 0 auto ;
+    background-color: #7895CB;
+    padding: 1rem ;
+    border-radius: 0.5rem;
+    width: 35%;
+    height: 18.2rem;
+    top: 0;
+    margin-top: 10.5rem;
+    margin-left: 31.5rem;
+
+}

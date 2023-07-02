@@ -1,0 +1,29 @@
+.tokenlist{
+    position: absolute;
+    right: 0;
+    width: 20rem;
+    border-radius: 0.5rem;
+    background-color: #393E46;
+    margin-top: 6rem;
+    margin-right: 1rem;
+    margin-left: 6.4rem;
+    padding: 1rem;
+}
+
+.tokenlisttitle{
+    width: 100%;
+    padding: 2rem 1rem;
+    font-weight: 1000;
+    line-height: 0;
+    font-size: 1.4rem;
+    color: #7895CB;
+    margin-top: 1rem;
+}
+
+.tokenlistbox{
+    position: relative;
+    cursor: pointer;
+    border-bottom: 1px solid cyan;
+    padding: 1rem ;
+  
+}

@@ -1,0 +1,14 @@
+.token{
+    position: absolute;
+    color: #333;
+    margin: 0 auto ;
+    background-color: #7895CB;
+    padding: 1rem ;
+    border-radius: 0.5rem;
+    width: 35%;
+    height: 18.1rem;
+    top: 0;
+    margin-top: 10.5rem;
+    margin-left: 31.5rem;
+
+}
